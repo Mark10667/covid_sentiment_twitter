@@ -1,6 +1,5 @@
 This thesis project built a practical and industry-level data pipeline from the very beginning of data sources to the analytical output at the end. Throughout this process, we experimented with several kinds of modern state-of-the-art technologies, including Kafka, Cloud, and Transformers in deep learning, to produce our final analytical results. 
 
-The pipeline looks like the following: 
 <img width="678" alt="senior_thesis_pipeline" src="https://github.com/Mark10667/covid_sentiment_twitter/assets/33364324/022d313e-8280-4e02-8817-bb2ae3e3c77c">
 
 Figure 1. Data Pipeline Structure 
